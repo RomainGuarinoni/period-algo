@@ -1,0 +1,19 @@
+{
+  "name": "thomasalgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.js"
+  },
+  "dependencies": {
+    "@types/jest": "29.5.4",
+    "typescript": "^5.2.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1"
+  }
+}
